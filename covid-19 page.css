@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.covid-19-container {
+    background-color: solid;
+    border-width: 5px;
+    border-color: #0967d219;
+}
+
+.covid-header {
+    margin: 15px;
+}
+
+.top-section-main-heading {
+    color: #323f4b;
+    font-family: "roboto";
+    font-size: 18px;
+    font-weight: 550px;
+}
+
+.top-section-button {
+    color: white;
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: #0967d2;
+    height: 30px;
+    width: 85px;
+    font-family: "roboto";
+    font-size: 12px;
+}
+
+.covid-card-container {
+    background-color: #0967d219;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.covid-card-image {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
+
+.covid-card-text-container {
+    padding: 6px;
+}
+
+.covid-card-heading {
+    font-size: 15px;
+    color: #323f4b;
+    font-weight: 550;
+    font-family: "roboto";
+}
+
+.covid-card-paragraph {
+    font-size: 12px;
+    color: #707070;
+    font-weight: 500;
+    font-family: "roboto";
+}
+
+.symptoms-heading {
+    font-family: "roboto";
+    font-size: 16px;
+    padding: 5px;
+    font-weight: 500;
+}
+
+.symptoms-first-image-card {
+    background-color: #3ebd93;
+    height: 85px;
+    width: 80px;
+    padding: 12px;
+    border-radius: 8px;
+    border-width: 0px;
+    margin: 8px;
+}
+
+.symptoms-second-card-image {
+    background-color: #e668a7;
+    height: 85px;
+    width: 80px;
+    padding: 12px;
+    border-radius: 8px;
+    border-width: 0px;
+    margin: 8px;
+}
+
+.symptoms-third-card-image {
+    background-color: #a368fc;
+    height: 85px;
+    width: 80px;
+    padding: 12px;
+    border-radius: 8px;
+    border-width: 0px;
+    margin: 8px;
+}
+
+.symptoms-line {
+    color: #ffffff;
+    font-size: 10px;
+    font-family: "roboto";
+}
+
+.videos-card-container {
+    background-color: #e12d3919;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.videos-heading {
+    font-size: 15px;
+    font-family: "roboto";
+    padding: 5px;
+    font-weight: 500;
+}
+
+.videos-image {
+    width: 70px;
+    height: 70px;
+    padding: 10px;
+}
+
+.videos-sub-heading {
+    font-size: 16px;
+    color: #323f4b;
+    font-weight: 550;
+    font-family: "roboto";
+}
+
+.videos-paragraph {
+    font-size: 12px;
+    color: #707070;
+    font-weight: 500;
+    font-family: "roboto";
+}
